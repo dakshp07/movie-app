@@ -14,7 +14,7 @@ import 'package:http/http.dart' as http;
 ## Features
 
 - Search For Your Favourite Movies.
-- Movie Poster , Actors , Directors , IMDB Rating :star , Rotten Tomatoes :tomato , Box Office Collection , Plot And Many More.
+- Movie Poster , Actors , Directors , IMDB Rating ⭐ , Rotten Tomatoes 🍅  , Box Office Collection , Plot And Many More.
 - Fast And Reliable Information.
 
 ## GitHub 
